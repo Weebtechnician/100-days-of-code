@@ -3,9 +3,9 @@
 ### Day 0: August 1, 2023
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed Section 7 of Dr. Angela's web development course. Added a static navigation bar to the top of my website.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really struggled to understand positioning in CSS. I feel like I have a better grasp of it now, but it's definitely something to work on.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://weebtechnician.github.io/website/
 
