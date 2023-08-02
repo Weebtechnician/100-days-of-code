@@ -9,3 +9,11 @@
 
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 1: August 2, 2023
+
+**Today's Progress**: Started section 8 of the web dev course. Implemented grid into my personal website. I want to make it more responsive so I'm working towards that slowly. I feel like it's a mess but I'm getting there.
+
+**Thoughts:** 
+
+**Link to work:** https://weebtechnician.github.io/website/
+
