@@ -11,9 +11,9 @@
 
 ### Day 1: August 2, 2023
 
-**Today's Progress**: Started section 8 of the web dev course. Implemented grid into my personal website. I want to make it more responsive so I'm working towards that slowly. I feel like it's a mess but I'm getting there.
+**Today's Progress**: Started section 8 of the web dev course. Implemented grid and flexbox into my personal website. I want to make it more responsive so I'm working towards that slowly. Used @media to change the layout of the website for mobile, wasn't working at first and after a few hours I told out I used a "=" when I should've used a ":". Oh well.
 
-**Thoughts:** 
+**Thoughts:** Pretty solid day, I learned a lot and made what I think is some pretty solid progress. Can't wait for javascript.
 
 **Link to work:** https://weebtechnician.github.io/website/
 
