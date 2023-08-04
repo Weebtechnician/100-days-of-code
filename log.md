@@ -17,3 +17,12 @@
 
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 2: August 3, 2023
+
+**Today's Progress**: Finished section 9, implemented flex into my contact page and learned more about grids. I feel like I didn't work a lot on my website today, it was mostly learning. But it's progress.
+
+**Thoughts:** Spent around 6 hours of coding/lessons but I don't feel like I accomplished much today. That's okay though! I did enough.
+
+**Link to work:** https://weebtechnician.github.io/website/
+
+
