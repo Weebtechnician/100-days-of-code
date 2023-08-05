@@ -25,4 +25,11 @@
 
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 3: August 4, 2023
+
+**Today's Progress**: Learned more about grid, fixed some unnecessary code on my website, and made the contact page slightly more responsive. Couldn't do a whole lot today unfortunately. 
+
+**Thoughts:** I really feel like I need a solid 4 hours everyday to feel productive. 2 hours just really isn't enough for me to feel like I did much.
+**Link to work:** https://weebtechnician.github.io/website/
+
 
