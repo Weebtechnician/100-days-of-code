@@ -32,4 +32,11 @@
 **Thoughts:** I really feel like I need a solid 4 hours everyday to feel productive. 2 hours just really isn't enough for me to feel like I did much.
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 4: August 5, 2023
+
+**Today's Progress**: Learned about Bootstrap and put together two websites using it. Wow what an easy way to through a website together. I also made some slight adjusts to my own personal website today but after learning about bootstrap I almost want to entirely pivot my website to using bootstrap. At the same time though it'll be useful to keep it using traditional css so when I start learning JS I can incorporate that into my website. Maybe I'll do both?
+
+**Thoughts:** Put a lot of time in today between the lessons and actual coding. Feels really good. 
+**Link to work:** https://weebtechnician.github.io/website/
+
 
