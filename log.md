@@ -39,4 +39,11 @@
 **Thoughts:** Put a lot of time in today between the lessons and actual coding. Feels really good. 
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 5: August 6, 2023
+
+**Today's Progress**: Not a whole lot of coding today but I learned a good amount about web design as a concept. Which I actually feel like I definitely needed. My old site page really didn't have in mind the experience of the user. So I barely started working on completely redoing my site. I'll work on it a lot more tomorrow but for now I need to wind down before work tomorrow.
+
+**Thoughts:** UX is really important and I'm glad I learned about it more today. Can't wait to see how everything comes together.
+**Link to work:** https://weebtechnician.github.io/website/
+
 
