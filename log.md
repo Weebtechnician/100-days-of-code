@@ -46,4 +46,14 @@
 **Thoughts:** UX is really important and I'm glad I learned about it more today. Can't wait to see how everything comes together.
 **Link to work:** https://weebtechnician.github.io/website/
 
+### Day 6: August 7, 2023
 
+**Today's Progress**: Worked on my website all day today. Managed to put together a pretty responsive good looking website with only HTML/CSS which I'm pretty proud of.
+
+**Thoughts:** I still feel like I'm struggling like grid sometimes. I could not get it to function the way I was hoping for a while. I keep to keep brushing up on how to effectively layout my website.
+**Link to work:** ### Day 5: August 6, 2023
+
+**Today's Progress**: Not a whole lot of coding today but I learned a good amount about web design as a concept. Which I actually feel like I definitely needed. My old site page really didn't have in mind the experience of the user. So I barely started working on completely redoing my site. I'll work on it a lot more tomorrow but for now I need to wind down before work tomorrow.
+
+**Thoughts:** UX is really important and I'm glad I learned about it more today. Can't wait to see how everything comes together.
+**Link to work:** https://weebtechnician.github.io/Personal-website/
