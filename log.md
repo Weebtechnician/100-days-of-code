@@ -51,9 +51,11 @@
 **Today's Progress**: Worked on my website all day today. Managed to put together a pretty responsive good looking website with only HTML/CSS which I'm pretty proud of.
 
 **Thoughts:** I still feel like I'm struggling like grid sometimes. I could not get it to function the way I was hoping for a while. I keep to keep brushing up on how to effectively layout my website.
-**Link to work:** ### Day 5: August 6, 2023
+**Link to work:** hansfigueroa.com
 
-**Today's Progress**: Not a whole lot of coding today but I learned a good amount about web design as a concept. Which I actually feel like I definitely needed. My old site page really didn't have in mind the experience of the user. So I barely started working on completely redoing my site. I'll work on it a lot more tomorrow but for now I need to wind down before work tomorrow.
+### Day 7: August 10, 2023
 
-**Thoughts:** UX is really important and I'm glad I learned about it more today. Can't wait to see how everything comes together.
-**Link to work:** https://weebtechnician.github.io/Personal-website/
+**Today's Progress**: Wasn't able to do a whole lot, fixed a few bugs with the website and streamlined things a little bit. Started a bit of JS and that's about it.
+
+**Thoughts:** I was on duty Tuesday and had to stay up all night so I got home yesterday and crashed for 12 hours so there's a gap. But realistically there's nothing I could do about that. Just gotta keep going!
+**Link to work:** hansfigueroa.com
